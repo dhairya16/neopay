@@ -28,6 +28,7 @@
         </processorPath>
         <module name="TransactionService" />
         <module name="NotificationService" />
+        <module name="RewardService" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -37,6 +38,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="NotificationService" options="-parameters" />
+      <module name="RewardService" options="-parameters" />
       <module name="TransactionService" options="-parameters" />
       <module name="UserService" options="-parameters" />
       <module name="core" options="" />
