@@ -13,6 +13,7 @@
         <module>TransactionService</module>
         <module>NotificationService</module>
         <module>RewardService</module>
+        <module>APIGateway</module>
         <module>core</module>
         <!-- Add your other services here -->
     </modules>
